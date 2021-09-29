@@ -6,5 +6,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciazabala&hide=ruby&card_width=300&layout=compact" />
 </a>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=florenciazabala&repo=Memotest)](https://github.com/florenciazabala/Memotest)
