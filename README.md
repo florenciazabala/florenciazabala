@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=florenciazabala&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=DEG,68093A,D04103&hide=issues&hide_border=true"/>
 </a>
 <a href="https://github.com/florenciazabala/florenciazabala">
-  <img align="center" background-color="transparent" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciazabala&hide=ruby&card_width=300&layout=compact&text_color=000000&title_color=000000&border_color=FFFFFF&bg_color=ffffffb5" />
+  <img align="center" background-color="transparent" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciazabala&hide=ruby&card_width=300&layout=compact&text_color=FFFFFF&title_color=FFFFFF&border_color=FFFFFF&bg_color=#22272E" />
 </a>
 
 <br>
