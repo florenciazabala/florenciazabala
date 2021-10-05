@@ -1,12 +1,12 @@
 # Hi! I'm Florencia
 
 ### 🛠️ Languages and tools
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 
 <a href="https://github.com/florenciazabala/florenciazabala">
