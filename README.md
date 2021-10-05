@@ -17,3 +17,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciazabala&hide=ruby&card_width=300&layout=compact&bg_color=22272E&text_color=FFFFFF&title_color=FFFFFF&border_color=444C56" />
 </a>
 
+### Contributions
+![contributions snake gif](https://github.com/florenciazabala/florenciazabala/blob/output/github-contribution-grid-snake.gif)
