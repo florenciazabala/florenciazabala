@@ -18,4 +18,4 @@
 </a>
 
 ### Contributions
-![contributions snake gif](https://github.com/florenciazabala/florenciazabala/blob/output/github-contribution-grid-snake.gif)
+![contributions snake gif](https://github.com/florenciazabala/florenciazabala/blob/output/github-contribution-grid-snake.svg)
